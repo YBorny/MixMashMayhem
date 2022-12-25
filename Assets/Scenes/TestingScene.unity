@@ -153,9 +153,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09cab234a1117914189a37080648bc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _movementSpeed: 8
+  _movementSpeed: 10
   _slowDownMultiplier: 2
-  _rotationSpeed: 3
+  _rotationSpeed: 5
   _dashSpeed: 20
   _dashTime: 0.2
   _gravity: 9.81
@@ -194,7 +194,7 @@ Transform:
   m_Children:
   - {fileID: 2020413399}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &625978514
 GameObject:
@@ -291,7 +291,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &632404102
 GameObject:
